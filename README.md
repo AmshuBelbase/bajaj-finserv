@@ -11,6 +11,8 @@ structured JSON format.
 
 https://drive.google.com/file/d/1LzG7oJ-cqGHK9KbwXnWfkWgnQ3xi8Cr9/view?usp=sharing
 
+## SOLUTION:
+
 #### RUN app.py using this in terminal:
 
 uvicorn app:app --reload
